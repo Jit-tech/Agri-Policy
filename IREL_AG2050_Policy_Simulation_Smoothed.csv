@@ -1,0 +1,36 @@
+County,Year,CRISPR_YieldBoost,SolarAdoption,BiomassOutput,CarbonCreditsEarned,Agroforestry_Support,Solar_Farm_Incentive,Bioenergy_Program,CAP_Priority_Zone
+Cork,2020,422.8,18.76,2.76,1.03,High (Silvopasture pilots active),Moderate,High,Yes
+Cork,2021,443.42,31.37,1.98,1.42,High (Silvopasture pilots active),Moderate,High,Yes
+Cork,2022,432.21,38.25,3.57,1.31,High (Silvopasture pilots active),Moderate,High,Yes
+Cork,2023,456.02,39.16,4.07,1.3,High (Silvopasture pilots active),Moderate,High,Yes
+Cork,2024,453.07,36.98,4.3,1.81,High (Silvopasture pilots active),Moderate,High,Yes
+Cork,2025,461.44,40.37,4.5,2.13,High (Silvopasture pilots active),Moderate,High,Yes
+Cork,2026,473.42,53.67,6.62,2.97,High (Silvopasture pilots active),Moderate,High,Yes
+Kerry,2020,421.09,22.66,3.45,1.15,Medium,High,Low,Yes
+Kerry,2021,416.94,27.73,3.16,1.19,Medium,High,Low,Yes
+Kerry,2022,427.6,31.61,4.4,1.71,Medium,High,Low,Yes
+Kerry,2023,440.93,38.07,3.48,1.82,Medium,High,Low,Yes
+Kerry,2024,446.37,48.75,4.09,1.64,Medium,High,Low,Yes
+Kerry,2025,452.69,54.54,6.3,2.17,Medium,High,Low,Yes
+Kerry,2026,482.06,44.76,3.14,1.94,Medium,High,Low,Yes
+Galway,2020,424.75,19.78,2.04,0.99,High,Low,Medium,No
+Galway,2021,429.63,24.05,3.43,0.97,High,Low,Medium,No
+Galway,2022,447.3,25.21,4.64,1.22,High,Low,Medium,No
+Galway,2023,444.11,33.73,3.76,1.7,High,Low,Medium,No
+Galway,2024,452.99,33.69,4.16,1.89,High,Low,Medium,No
+Galway,2025,476.26,34.06,4.8,1.87,High,Low,Medium,No
+Galway,2026,473.47,46.15,3.8,2.41,High,Low,Medium,No
+Dublin,2020,411.16,25.37,3.28,0.97,Low,Very High,Low,No
+Dublin,2021,417.54,24.09,2.66,1.19,Low,Very High,Low,No
+Dublin,2022,425.0,41.14,3.32,1.47,Low,Very High,Low,No
+Dublin,2023,422.29,38.2,4.87,2.08,Low,Very High,Low,No
+Dublin,2024,444.66,36.25,4.9,1.79,Low,Very High,Low,No
+Dublin,2025,453.53,54.21,4.55,1.96,Low,Very High,Low,No
+Dublin,2026,452.96,43.44,5.68,1.83,Low,Very High,Low,No
+Limerick,2020,467.15,21.54,3.26,1.77,Moderate,Moderate,High,Yes
+Limerick,2021,472.19,27.88,3.09,1.21,Moderate,Moderate,High,Yes
+Limerick,2022,484.63,21.45,3.54,1.63,Moderate,Moderate,High,Yes
+Limerick,2023,480.45,35.92,4.55,1.3,Moderate,Moderate,High,Yes
+Limerick,2024,487.1,42.76,4.63,2.35,Moderate,Moderate,High,Yes
+Limerick,2025,505.88,39.17,3.45,2.4,Moderate,Moderate,High,Yes
+Limerick,2026,498.02,46.76,6.58,2.66,Moderate,Moderate,High,Yes
