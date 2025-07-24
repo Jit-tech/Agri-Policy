@@ -6,7 +6,7 @@ import plotly.express as px
 # Load dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv("/Users/jit/Downloads/IREL_AG2050_Policy_Simulation_Smoothed.csv")
+    return pd.read_csv("IREL_AG2050_Policy_Simulation_Smoothed.csv")
 
 df = load_data()
 
